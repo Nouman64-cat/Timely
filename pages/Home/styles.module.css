@@ -1,0 +1,7 @@
+.home-container{
+  background: url("/snowy-winter-landscape.svg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh;
+}

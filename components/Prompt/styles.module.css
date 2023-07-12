@@ -1,0 +1,20 @@
+.prompt-input{
+  display: flex;
+  width: 80%;
+  height: 4rem;
+  border-radius: 10rem;
+  -webkit-border-radius: 10rem;
+  -moz-border-radius: 10rem;
+  -ms-border-radius: 10rem;
+  -o-border-radius: 10rem;
+  padding-left: 2rem;
+  border: 2px solid rgba(4, 0, 255, 0.5);
+  opacity: 0.95;
+  margin-left: 4rem;
+}
+.prompt-input:focus{
+  outline: none;
+  border: 2px solid rgba(51, 218, 0, 0.8);
+  opacity: 1;
+  box-shadow: 0 0 10px rgba(51, 218, 0, 0.8);
+}
